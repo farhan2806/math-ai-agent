@@ -155,11 +155,10 @@ math-agent-project/
 │   ├── requirements.txt
 │   └── .env
 ├── frontend/
-│   └── math-agent-ui/
-│       ├── src/
-│       │   ├── App.js
-│       │   └── App.css
-│       └── package.json
+│   ├── src/
+│   │   ├── App.js
+│   │   └── App.css
+│   └── package.json
 ├── .gitignore
 └── README.md
 ```
@@ -219,4 +218,5 @@ Your Name - [GitHub](https://github.com/farhan2806)
 - Anthropic for MCP specification
 - LangChain for agent framework
 - Groq for fast LLM inference
+
 - Tavily for web search API
