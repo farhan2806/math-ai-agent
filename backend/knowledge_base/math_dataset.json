@@ -1,0 +1,23 @@
+[
+  {
+    "question": "What is the derivative of x^2?",
+    "solution": "The derivative of x^2 is 2x",
+    "steps": [
+      "Apply power rule: d/dx[x^n] = nx^(n-1)",
+      "Here n=2, so derivative = 2x^(2-1) = 2x"
+    ],
+    "topic": "calculus",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve the quadratic equation x^2 - 5x + 6 = 0",
+    "solution": "x = 2 or x = 3",
+    "steps": [
+      "Factor the equation: (x-2)(x-3) = 0",
+      "Set each factor to zero: x-2=0 or x-3=0",
+      "Solve: x=2 or x=3"
+    ],
+    "topic": "algebra",
+    "difficulty": "medium"
+  }
+]
